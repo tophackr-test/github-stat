@@ -16,8 +16,8 @@ icon: pen-to-square
 
 {% embed url="https://tophackr.com" %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="markdown.md" %}
+[markdown.md](markdown.md)
 {% endcontent-ref %}
 
 GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content.
