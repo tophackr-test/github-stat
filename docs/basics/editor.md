@@ -4,6 +4,22 @@ icon: pen-to-square
 
 # Editor
 
+
+
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr><tr><td></td></tr></tbody></table>
+
+{% hint style="info" %}
+
+{% endhint %}
+
+***
+
+{% embed url="https://tophackr.com" %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
 GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content.
 
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/editor-hero.png" alt=""><figcaption></figcaption></figure>
