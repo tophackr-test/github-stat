@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome](<README (1).md>)
 
 ## Getting Started
 
@@ -9,9 +9,9 @@
 
 ## Basics
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
+* [Editor](<basics/editor (1).md>)
+* [Markdown](<basics/markdown (1).md>)
+* [Images & media](<basics/images-and-media (1).md>)
+* [Interactive blocks](<basics/interactive-blocks (1).md>)
 * [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Integrations](<basics/integrations (1).md>)
